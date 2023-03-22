@@ -7,7 +7,7 @@ window.geometry("312x324") # size of the window width:- 500, height:- 375
 
 window.resizable(0, 0) # this prevents from resizing the window
 
-window.title("Calcualtor")
+window.title("Calculator")
 
 ################################### functions ######################################
 
